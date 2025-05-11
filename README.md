@@ -69,8 +69,8 @@ my-dapp/
 ## Learn More
 - [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 - [React Documentation](https://reactjs.org/)
-- [Web3.js Documentation](https://web3js.readthedocs.io/) (if using Web3.js)
-- [Ethers.js Documentation](https://docs.ethers.io/) (if using Ethers.js)
+- [Web3.js Documentation](https://web3js.readthedocs.io/) 
+- [Ethers.js Documentation](https://docs.ethers.io/) 
 
 ---
 
