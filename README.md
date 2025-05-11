@@ -24,7 +24,7 @@ This project is a starter template for building decentralized applications (dApp
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/umashankar-tech/Simple-Defi-Dapp-Frontend.git)
+   git clone https://github.com/umashankar-tech/Simple-Defi-Dapp-Frontend.git
    cd Simple-Defi-Dapp-Frontend
    ```
 2. Install dependencies:
