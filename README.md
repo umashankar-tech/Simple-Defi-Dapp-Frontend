@@ -22,6 +22,12 @@ This project is a starter template for building decentralized applications (dApp
 - npm (v8 or above)
 
 ### Installation
+### Important!!!
+--make sure that bakcend setup completely done
+```shell
+ https://github.com/umashankar-tech/Simple-dapp-defi-fullstack-Application
+```
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/umashankar-tech/Simple-Defi-Dapp-Frontend.git
